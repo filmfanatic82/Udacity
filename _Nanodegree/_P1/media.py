@@ -1,7 +1,15 @@
 import webbrowser
 
 class Movie():
+<<<<<<< HEAD
     def __init__ (self, movie_title, movie_storyline, poster_image, trailer_youtube):
+||||||| merged common ancestors
+    def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
+=======
+    VALID_RATINGS = ("G", "PG", "PG-13", "R')
+                     
+    def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
+>>>>>>> fdbd46d5598f43418c715240db968001ee8c2a40
         self.title = movie_title
         self.storyline = movie_storyline
         self.poster_image_url = poster_image
