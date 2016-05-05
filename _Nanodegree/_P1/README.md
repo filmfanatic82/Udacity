@@ -11,4 +11,7 @@ Current Version
 -----------
 1.0  
 
-
+Instructions
+-------------
+1. download _P1 folder
+2. Open enterainment_center.py in IDLE and RUN
