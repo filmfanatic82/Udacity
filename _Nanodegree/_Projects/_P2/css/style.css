@@ -1,0 +1,61 @@
+h1, h3 {
+	font-family: Raleway;
+	color: black;
+}
+
+h2, h4, h5, h6 {
+    font-family: Raleway;
+    color: #7d97ad;
+}
+
+p, div {
+    font-family: Raleway;
+    color: #7d97ad;
+}
+
+body {
+	background-color: white;
+}
+
+#samples {
+	height: 200px;
+	width: auto;
+	padding-bottom: 400px;
+}
+
+#logo {
+	height: 150px;
+	width: 150px;
+}
+
+@media (max-width: 767px) {
+	h1, h3 {
+		font-size: 18px;
+	}
+	h4 {
+		font-size: 10px;
+	}
+	#logo {
+		height: 75px;
+		width: 75px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
